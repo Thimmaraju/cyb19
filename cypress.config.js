@@ -14,7 +14,7 @@ module.exports = defineConfig({
     retries:{openMode:1, runMode: 2},
     //pageLoadTimeout: 120000,
     defaultCommandTimeout: 20000,
-    specPattern: "**/*.feature",
+    //specPattern: "**/*.feature",
     watchForFileChanges: false,
     chromeWebSecurity: false,
     experimentalSessionAndOrigin:true,
