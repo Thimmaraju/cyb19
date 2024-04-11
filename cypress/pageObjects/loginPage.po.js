@@ -2,7 +2,7 @@ class loginPage {
 
    orangeHrmLogo() {
 
-      return 'img[alt="company-branding"]'
+      return '//img[@alt="company-branding"]'
    }
 
 
