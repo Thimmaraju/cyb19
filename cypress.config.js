@@ -17,7 +17,7 @@ module.exports = defineConfig({
     //specPattern: "**/*.feature",
     watchForFileChanges: false,
     chromeWebSecurity: false,
-    experimentalSessionAndOrigin:true,
+    //experimentalSessionAndOrigin:true,
     video: true,  
     //videoCompression: 51,
     videosFolder: "cypress/Raju",
